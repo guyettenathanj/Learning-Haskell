@@ -10,3 +10,5 @@ Only evaluates a function when needed.
 
 # Declaritive Programming
 Defines the what of the program more than the how.
+
+https://play.haskell.org/saved/c9Yhlzup
